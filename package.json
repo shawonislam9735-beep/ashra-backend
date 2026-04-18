@@ -1,7 +1,7 @@
 {
   "name": "ashra-ai-backend",
-  "version": "7.0.0",
-  "description": "ASHRA AI — Secure Express backend (OpenAI Edition)",
+  "version": "1.0.0",
+  "description": "ASHRA AI — Secure Express backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,8 +13,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-rate-limit": "^7.1.5",
-    "jsonwebtoken": "^9.0.2",
-    "openai": "^4.47.1"
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
