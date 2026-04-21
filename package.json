@@ -1,7 +1,7 @@
 {
-  "name": "ashra-ai-backend",
-  "version": "1.0.0",
-  "description": "ASHRA AI — Secure Express backend",
+  "name": "ashra-backend",
+  "version": "8.0.0",
+  "description": "Ashra — AI chatbot backend (Groq + server-side memory)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
